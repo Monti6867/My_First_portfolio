@@ -17,7 +17,7 @@ const Works = () => {
             <div className="awesome">
                 <span style={{color : darkMode? 'white': ''}}>Works for All these</span>
                 <span>Brands & Clients</span>
-                <spane>Lorem ipsum dolor sit amet alllow me to do this type functionalities consectetur adipisicing elit. lost village <br /> Enim cupiditate dolorum obcaecati ipsum ,<br />dolor sit amet consectetur adipisicing my name is ther eissbasjjsdd elit. lost village <br />
+                <spane>Lorem ipsum dolor sit amet alllow me to do this type functionalities consectetur adipisicing elit. lost village <br /> Enim cupiditate dolorum obcaecati ipsum ,<br />dolor sit amet consectetur adipisicing my name is ther <br />
                 dolor sit amet consectetur adipisicing elit. lost village </spane>
 
                 <div className="button s-button">Hire me</div>
