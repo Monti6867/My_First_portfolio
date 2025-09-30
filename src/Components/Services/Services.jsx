@@ -20,7 +20,7 @@ const Services = () => {
                 <span>Services</span>
                 <spane>Lorem ipsum dolor sit amet consectetur adipisicing elit. lost village <br /> Enim cupiditate dolorum obcaecati ipsum , </spane>
                 <a href={Resume} download>
-                    <div className="button s-button">Download CV</div>
+                    <div className="button se-button">Download CV</div>
                 </a>
                 <div className="blur s-blur1" style={{ background: "#c1f5ff" }}></div>
             </div>
